@@ -3,7 +3,7 @@ Fragments of a culinary site:
 
 index.vue - site page code
 
-StarRating.vue - the code of the component used on the site page - displaying and setting the recipe rating
+StarRating.vue - the code of the component used on this site page - displaying and setting the recipe rating
 
 Site page appearance:
 
