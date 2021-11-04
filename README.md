@@ -7,4 +7,7 @@ StarRating.vue - the code of the component used on the site page - displaying an
 
 Site page appearance:
 
+![image](https://user-images.githubusercontent.com/56484012/140308585-e9098883-c60a-4dad-ac49-d74a194ad6ff.png)
+
+
 ![image](https://user-images.githubusercontent.com/56484012/140305986-715b2c0c-2dea-4804-b536-eec07bd50c1d.png)
