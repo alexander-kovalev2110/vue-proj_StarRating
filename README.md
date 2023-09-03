@@ -1,5 +1,5 @@
 # vue-proj_StarRating
-Fragments of a culinary site:
+Fragments of a [culinary site](https://cookingprofessionally.com/):
 
 index.vue - site page code
 
