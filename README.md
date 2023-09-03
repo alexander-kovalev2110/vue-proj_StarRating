@@ -3,7 +3,7 @@ Fragments of a [Culinary site](https://cookingprofessionally.com/):
 
 index.vue - site page code
 
-StarRating.vue - the code of the component used on this site page (line 63) - displaying and setting the recipe rating
+StarRating.vue - the code of the component used on this site page - displaying and setting the recipe rating
 
 Site page appearance:
 
